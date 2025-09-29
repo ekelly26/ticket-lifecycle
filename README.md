@@ -26,23 +26,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1089" height="912" alt="image" src="https://github.com/user-attachments/assets/7593f3ef-966c-4731-aa30-0a8e946e8335" />
+<img width="1226" height="895" alt="image" src="https://github.com/user-attachments/assets/801e1e9e-457c-4ec1-834c-ef5e4c8494fb" />
+
 </p>
 <p>
 As an end-user, create a ticket EX: entire mobile/online banking system is down. Then, in the Agent Portal, observe the ticket's properties (Priority, Department, SLA, Assigned To). Then, set properties to the ticket (SEV-A [1 hour, 24/7], Online Banking Department)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img width="1270" height="436" alt="image" src="https://github.com/user-attachments/assets/a4cd57b3-1550-493c-ae2b-8b4e1dc4328c" />
+<img width="1308" height="941" alt="image" src="https://github.com/user-attachments/assets/5ce13faa-2651-47fc-81cb-d975893b5909" />
+<img width="1249" height="933" alt="image" src="https://github.com/user-attachments/assets/1e240bea-6a9a-4a9d-a4b6-abc7b26edb60" />
+<img width="1203" height="505" alt="image" src="https://github.com/user-attachments/assets/534f969d-ea66-4dd0-b303-595dcd60a77d" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Work the ticket to completion and then close out the ticket. Rinse and repeat with other tickets. There will be a few examples posted here. The final image shows all of the tickets being completed and closed.
 <br />
